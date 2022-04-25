@@ -1,0 +1,53 @@
+@font-face {
+    font-family: Barlow-SemiBold;
+    src: url(../fonts/Barlow-SemiBold.ttf);
+    font-weight: 600
+}
+
+@font-face {
+    font-family: BeVietnamPro-Bold;
+    src: url(../fonts/BeVietnamPro-Bold.ttf);
+    font-weight: 700
+}
+
+@font-face {
+    font-family: icofont;
+    src: url(../fonts/icofont.ttf);
+    font-weight: 400
+}
+
+@font-face {
+    font-family: Inter-Bold;
+    src: url(../fonts/Inter-Bold.ttf);
+    font-weight: 700
+}
+
+@font-face {
+    font-family: Inter-Regular;
+    src: url(../fonts/Inter-Regular.ttf);
+    font-weight: 400
+}
+
+@font-face {
+    font-family: Inter-SemiBold;
+    src: url(../fonts/Inter-SemiBold.ttf);
+    font-weight: 600
+}
+
+@font-face {
+    font-family: OpenSans-Bold;
+    src: url(../fonts/OpenSans-Bold.ttf);
+    font-weight: 700
+}
+
+@font-face {
+    font-family: OpenSans-Regular;
+    src: url(../fonts/OpenSans-Regular.ttf);
+    font-weight: 400
+}
+
+@font-face {
+    font-family: Reey-Regular;
+    src: url(../fonts/Reey-Regular.otf);
+    font-weight: 600
+}
